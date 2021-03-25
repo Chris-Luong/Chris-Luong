@@ -36,7 +36,7 @@ const Chris = {
 #### 🌏 UNSW Business Society website
 
 <a href="https://www.unswbsoc.com/">
-    <img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/Tomyo.png" width="300">
+    <img align="left" src="https://raw.github.com/Chris-Luong/Chris-Luong/master/images/bsoc ss.png" width="300">
 </a>
 UNSW Business Society is the largest society at the University of New South Wales with over 11,000 members and the society hosts 75+ events every year. These events are aimed at fostering the devlopment of students from the Business School by enhancing their social, personal and professional skills.
 
