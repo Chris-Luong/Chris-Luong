@@ -2,7 +2,7 @@
 
 ### 👋🏼 Hi there!!! Connect with me on [Linkedin](https://www.linkedin.com/in/christopherluong3)
 
-Welcome to my GitHub :octocat: profile. I am [Christopher Luong](https://www.linkedin.com/in/christopherluong3), a **#Software-Engineer** and **#Designer**. I translate nebulous ideas into innovative and globally impactful solutions.
+Welcome to my GitHub :octocat: profile. I am [Christopher Luong](https://www.linkedin.com/in/christopherluong3), a **#Software-Engineer**. I like solving problems with code.
 
 Ask me about: `Grabbing a Coffee` `Mentoring` `Product Management` `Startups` `Entrepreneurship` `Great Ideas`
 
@@ -25,7 +25,7 @@ const Chris = {
   architecture: ["microservices", "event-driven", "layered"],
   techCommunities: {
     coorganizer: "UNSW CSESOC",
-    mentor: ["Student Peer Mentor", "Local Hackathon(s) Mentor"],
+    mentor: ["Student Peer Mentor", "Local Hackathon(s) Mentor", "IT Director"],
   },
   challenge: "This year, I want to launch Lingo List, learn React, and understand production monitoring KPIs.",
 };
@@ -33,32 +33,22 @@ const Chris = {
 
 #### Recent Projects
 
-#### 🌏 Tomyo Edtech
+#### 🌏 UNSW Business Society website
 
-<a href="https://tomyo.mn/">
+<a href="https://www.unswbsoc.com/">
     <img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/Tomyo.png" width="300">
 </a>
-Tomyo Edtech is an educational technology company with a mission to enable world-class opportunities directly to the hands of developing nations’ youth. By Tomyo’s Platform, we empower both learners and educational content providers through our personalized recommendation engine making it easy to connect based on an individual's favorite medium of learning or teaching...
+UNSW Business Society is the largest society at the University of New South Wales with over 11,000 members and the society hosts 75+ events every year. These events are aimed at fostering the devlopment of students from the Business School by enhancing their social, personal and professional skills.
+
+I used Webflow to create the website and make it responsive with my co-director and Godadddy to host it. The website contains multiple pages showcasing different aspects of the society including a blog page to give students information on various topics and a signup page to allow people to signup to the mailing list.
 </p>
 <p>
 
-####  💵 Erxes.io
+####  💵 Lingo List
 
-<a href="https://www.bdxworld.com/">
+<a href="https://www.lingolist.com.au/">
 	<img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/Erxes.png" width="300">
 </a>
 
-[BDXworld](https://www.bdxworld.com/) Customers don’t see businesses as departments. But they can tell when a company’s employees are not on the same page. Also, you need to reach out to customers where they are. Besides, with many apps and tools popping up every day, businesses need to keep up. But it doesn’t have to be so hard or expensive.
-
-Erxes is a free and open fair-code licensed all-in-one growth marketing and business management platform. erxes provides the freedom to use all your favorite tools from a single dashboard at an affordable price. The end result is a seamless and unified solution for the business and a smoother customer journey for the end-user.
-</p>
-<p>
-
-#### 🔍 LendMN
-
-<a href="https://www.lend.mn">
-	<img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/Lendmn.png" width="300">
-</a>
-
-[Lendmn](https://www.lend.mn)LendMN нь хэрэглэгчийн өдөр тутмын санхүүгийн бүх асуудлыг гар утасны ганцхан товчоор шийддэг санхүүгийн технологи (Fintech) дээр суурилсан шийдэл юм. 
+[Lingo List](https://www.Lingolist.com.au/) is a
 </p>
