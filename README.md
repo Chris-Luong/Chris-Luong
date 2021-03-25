@@ -1,4 +1,4 @@
-![Banner](https://raw.github.com/Chris-Luong/Chris-Luong/master/images/ChrisLinkedInBanner.png)
+![Banner](https://raw.github.com/Chris-Luong/Chris-Luong/master/images/GithubBigCP.png)
 
 ### 👋🏼 Hi there!!! Connect with me on [Linkedin](https://www.linkedin.com/in/christopherluong3)
 
