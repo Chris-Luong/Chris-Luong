@@ -1,16 +1,15 @@
 ![Banner](https://raw.github.com/jhingun1/jhingun1/master/Chingun1.png)
 
-### 👋🏼 Hi there!!! Connect with me on [Linkedin](https://www.linkedin.com/in/jhingun1)
+### 👋🏼 Hi there!!! Connect with me on [Linkedin](https://www.linkedin.com/in/christopherluong3)
 
-Welcome to my GitHub :octocat: profile. I am [Chingun Erdene-Ochir](https://www.linkedin.com/in/jhingun1), a **#Software-Engineer** and **#Designer**. I translate nebulous ideas into innovative and globally impactful solutions.
+Welcome to my GitHub :octocat: profile. I am [Christopher Luong](https://www.linkedin.com/in/christopherluong3), a **#Software-Engineer** and **#Designer**. I translate nebulous ideas into innovative and globally impactful solutions.
 
 Ask me about: `Grabbing a Coffee` `Mentoring` `Product Management` `Startups` `Entrepreneurship` `Great Ideas`
 
 #### University and Work
 
-🎓 Statistics and Data Science MicroMasters Student @ [MIT](https://www.mit.edu) (Dec 2019)  
-👨🏼‍💻 Software Engineer and CEO @ [Datazaps](https://github.com/microsoft)  
-🦉 Lead Software Engineer @ [Consensys](https://github.com/save-nemo-org)
+🎓 Commerce and Computer Science Student @ [UNSW](https://www.unsw.edu.au) (Feb 2020 - Present)  
+👨🏼‍💻 Software Engineer @ [Lingolist](https://www.lingolist.com.au/)
 
 
 <details>
@@ -20,16 +19,15 @@ Ask me about: `Grabbing a Coffee` `Mentoring` `Product Management` `Startups` `E
 <p>
 
 ```javascript
-const Chingun = {
-  code: [JavaScript, TypeScript, Swift, Python, C],
-  tools: [React, Node, Jest, Docker, GitHub, Azure, GCP],
+const Chris = {
+  code: [JavaScript, TypeScript, Ruby, Python, C],
+  tools: [React, Node.js, Firebase, Strapi, Ghost, GitHub, AWS, GCP],
   architecture: ["microservices", "event-driven", "layered"],
   techCommunities: {
-    coorganizer: "Microsoft Hackathon 2020",
-    speaker: "Startcon", "Sydney Cocoaheads"
+    coorganizer: "UNSW CSESOC",
     mentor: ["Student Peer Mentor", "Local Hackathon(s) Mentor"],
   },
-  challenge: "This year, I want to launch a SaaS app, learn React, and understand production monitoring KPIs.",
+  challenge: "This year, I want to launch Lingo List, learn React, and understand production monitoring KPIs.",
 };
 ```
 
