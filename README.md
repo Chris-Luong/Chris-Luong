@@ -50,5 +50,5 @@ I used Webflow to create the website and make it responsive with my co-director 
 	<img align="left" src="https://raw.github.com/jhingun1/jhingun1/master/images/Erxes.png" width="300">
 </a>
 
-[Lingo List](https://www.Lingolist.com.au/) is a
+[Lingo List](https://www.Lingolist.com.au/) is a marketplace for finding interpreters.
 </p>
