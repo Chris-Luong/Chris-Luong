@@ -4,12 +4,12 @@
 
 Welcome to my GitHub :octocat: profile. I am [Christopher Luong](https://www.linkedin.com/in/christopherluong3), a **#Software-Engineer**. I like solving problems with code.
 
-Ask me about: `Grabbing a Coffee` `Mentoring` `Product Management` `Startups` `Entrepreneurship` `Great Ideas`
+Ask me about: `Grabbing a Coffee` `University life` `Startups` `Entrepreneurship`
 
 #### University and Work
 
 🎓 Commerce and Computer Science Student @ [UNSW](https://www.unsw.edu.au) (Feb 2020 - Present)  
-👨🏼‍💻 Software Engineer @ [Lingolist](https://www.lingolist.com.au/)
+👨🏼‍💻 Software Engineer @ [Lingolist](https://www.lingolist.com.au/) (Mar 2021 - Present)
 
 
 <details>
