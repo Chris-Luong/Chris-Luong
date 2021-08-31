@@ -2,14 +2,14 @@
 
 ### 👋🏼 Hi there!!! Connect with me on [Linkedin](https://www.linkedin.com/in/christopherluong3)
 
-Welcome to my GitHub :octocat: profile. I am [Christopher Luong](https://www.linkedin.com/in/christopherluong3), a **#Software-Engineer**. I like solving problems with code.
+Welcome to my GitHub :octocat: profile. I am [Christopher Luong](https://www.linkedin.com/in/christopherluong3), a **#Software-Engineer**. I like solving problems.
 
-Ask me about: `Grabbing a Coffee` `University life` `Startups` `Entrepreneurship`
+Ask me about: `Grabbing a Coffee` `University life`
 
 #### University and Work
 
 🎓 Commerce and Computer Science Student @ [UNSW](https://www.unsw.edu.au) (Feb 2020 - Present)  
-👨🏼‍💻 Software Engineer @ [Lingolist](https://www.lingolist.com.au/) (Mar 2021 - Present)
+👨🏼‍💻 Co-founder @ [Lingo Ledger] (Mar 2021 - Present)
 
 
 <details>
@@ -20,14 +20,17 @@ Ask me about: `Grabbing a Coffee` `University life` `Startups` `Entrepreneurship
 
 ```javascript
 const Chris = {
-  code: [JavaScript, TypeScript, Ruby, Python, C],
-  tools: [React, Node.js, Firebase, Strapi, Ghost, GitHub, AWS, GCP],
-  architecture: ["microservices", "event-driven", "layered"],
-  techCommunities: {
-    coorganizer: "UNSW CSESOC",
-    mentor: ["Student Peer Mentor", "Local Hackathon(s) Mentor", "IT Director"],
-  },
-  challenge: "This year, I want to launch Lingo List, learn React, and understand production monitoring KPIs.",
+  code: [JavaScript, TypeScript, Python, C],
+  tools: [Webflow, Figma, GitHub],
+  extracurriculars: [
+    {
+      type: "society"
+      label: "UNSW BSOC",
+      position: ["IT Director", "Subcommittee Member"],
+      duration: "2 years",
+    }
+  ],
+  challenge: "This year, I want to launch a startup and learn as much as I can about the processes.",
 };
 ```
 
