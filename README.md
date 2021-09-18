@@ -1,3 +1,4 @@
+Loading...
 <!--- ![Banner](https://raw.github.com/Chris-Luong/Chris-Luong/master/images/ChrisGithubCP.png)
 
 ### 👋🏼 Hi there!!! Connect with me on [Linkedin](https://www.linkedin.com/in/christopherluong3)
